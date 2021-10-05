@@ -23,4 +23,3 @@ Predicting whether a user purchases the product or not based Gender, Age, Estima
 
 ### Conclusion 
 
-After executing the code, we get 58+29=87 correct predictions and 19+14=33 incorrect predictions. The correctness of the model is 72.5%%. 
